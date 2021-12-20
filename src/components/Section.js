@@ -26,7 +26,7 @@ function Section({
               <RightButton>{ rightBtnText}</RightButton>
             }
           </ButtonGroup>
-          <DownArrow src='/react-tesla-clone/images/down-arrow.svg'/>
+          <DownArrow src='./images/down-arrow.svg'/>
         </Fade>
       </Buttons>
     </Wrap>

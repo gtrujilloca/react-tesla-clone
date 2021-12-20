@@ -12,7 +12,7 @@ function Header() {
   return (
     <Container>
       <a>
-        <img src="/react-tesla-clone/images/logo.svg" alt="logo" />
+        <img src="./images/logo.svg" alt="logo" />
       </a>
       <Menu>
         {
